@@ -1,0 +1,30 @@
+{
+  "id": "1697367",
+  "name": "拉勾网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10678403",
+      "name": "address list",
+      "font_class": "addresslist",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "10678434",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "11372703",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    }
+  ]
+}
