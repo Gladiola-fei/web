@@ -1,2 +1,2 @@
 # web----pc-
-html、css和flex得练习
+利用flex实现移动端流式布局
